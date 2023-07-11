@@ -135,6 +135,12 @@
     align-items: center;
     padding-top: 92px;
 }
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
 
 
    
