@@ -1,0 +1,111 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    background-color: rgb(253, 227, 231);
+    
+}
+.titel{
+    font-size: 54px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.description{
+    
+    margin-bottom: 15px;
+    color: rgb(109, 108, 108);
+}
+.btn{
+    padding: 10px 15px;
+    background-color:crimson;
+    border: none;
+    color: white;
+    border-radius: 5px;
+}
+.banner-img{
+    width:60% ;
+    margin-left:80px;
+    margin-top: 40px;
+}
+.banner-text{
+    margin-left: 100px;
+}
+.featured-text{
+    text-align: center;
+    padding-top: 30px;
+}
+.flower1{
+    width:290px ;
+    height: 360px;
+    background-color:rgb(226, 206, 226) ;
+    border-radius: 150px 150px 3px 3px;
+}
+.flower{
+    width: 210px;
+    height: 320px;
+    margin: 10px;
+    padding: 10px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+.featured-container{
+    height: 100vh;
+}
+.flower-container{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 20px;
+    text-align: center;
+    padding-top: 70px;
+    
+}
+.fea-titel{
+    font-weight: bold;
+   padding-bottom: 8px;
+}
+.discount-container{
+    height: 70vh;
+    background-color: rgb(252, 235, 243);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.discount-photo{
+    
+    padding-right: 50px;
+}
+.flower-dis{
+    width: 250px;
+    height: 320px;
+    margin-right:150px;
+}
+.discount-text{
+    margin-left: 150px;
+    align-items:center;
+}
+.insta{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 70%;
+    height:vh ;
+    margin: auto;
+    gap: 13px;
+    margin: 10px 10px 1 ;
+}
+.img1{
+
+   width:max-content;
+   
+}
+
+
+
