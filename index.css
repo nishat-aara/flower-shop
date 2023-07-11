@@ -25,7 +25,7 @@
     background-color:crimson;
     border: none;
     color: white;
-    border-radius: 5px;
+    border-radius: 7px;
 }
 .banner-img{
     width:60% ;
@@ -35,40 +35,39 @@
 .banner-text{
     margin-left: 100px;
 }
-.featured-text{
+.fe-text{
     text-align: center;
-    padding-top: 30px;
+    padding-top: 31px;
 }
-.flower1{
-    width:290px ;
-    height: 360px;
-    background-color:rgb(226, 206, 226) ;
+.flowers{
+    width:288px ;
+    height: 358px;
+    background-color:rgb(224, 204, 224) ;
     border-radius: 150px 150px 3px 3px;
 }
 .flower{
-    width: 210px;
-    height: 320px;
+    width: 209px;
+    height: 319px;
     margin: 10px;
     padding: 10px;
     padding-top: 30px;
     padding-left: 30px;
     padding-right: 20px;
 }
-.featured-container{
+.featured-box{
     height: 100vh;
 }
-.flower-container{
+.flower-section{
     display: flex;
     justify-content:center;
     align-items:center;
-    gap: 20px;
     text-align: center;
-    padding-top: 70px;
-    
+    padding-top: 69px;
+    gap: 19px;
 }
 .fea-titel{
     font-weight: bold;
-   padding-bottom: 8px;
+   padding-bottom: 7px;
 }
 .discount-container{
     height: 70vh;
@@ -101,7 +100,33 @@
     gap: 13px;
     margin: 10px 10px 1 ;
 }
-
+.email{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.input{
+    padding: 10px;
+    width: 400px;
+    margin-right: 10px;
+}
+.btnn{
+    padding: 13px;
+    width: 100px;
+}
+.subs-cont{
+    width: 60%;
+    height: 35vh;
+    margin: auto;
+    background-image: url(images/Rectangle\ 9.png);
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 90px;
+    border-radius: 10px;
+}
 
 
    
